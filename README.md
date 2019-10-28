@@ -2,7 +2,7 @@
 
 This rest api is an node js implementation of an approval workflow, that changes states between PENDING, APPROVED and REJECTED.
 
-Its take user responses such as APPROVE, REJECT, HOLD.
+Its takes user responses such as APPROVE, REJECT, HOLD.
 
 WORKFLOW API is highly scalable, designed in way that you can develop and add new workflows very easily.
 
